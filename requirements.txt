@@ -1,0 +1,30 @@
+# Core Libraries
+numpy==1.26.0             # Stable with Python 3.11
+scipy==1.11.2             # Tested and stable with Python 3.11
+pandas==2.1.1             # Fully compatible with Python 3.11
+
+# Deep Learning Libraries
+torch==2.0.1              # Stable and compatible with Python 3.11
+torchvision==0.15.2       # Compatible with PyTorch 2.0.1 and Python 3.11
+scikit-learn==1.3.0       # Stable version with Python 3.11 compatibility
+
+# Chess Library
+python-chess==1.999       # Latest stable version
+
+# Tree Search
+anytree==2.8.0            # Stable and compatible with Python 3.11
+
+# Utility Libraries
+loguru==0.7.1             # Fully compatible with Python 3.11
+PyYAML==6.0.1             # Stable for Python 3.11
+
+# Jupyter Notebooks
+jupyter==1.0.0            # Fully compatible with Python 3.11
+
+# Testing Frameworks
+pytest==7.4.2             # Stable and works well with Python 3.11
+pytest-mock==3.10.0       # Compatible with Python 3.11 (optional)
+
+# Data Visualization
+matplotlib==3.7.2         # Latest stable version for Python 3.11
+seaborn==0.12.2           # Fully compatible with Python 3.11
